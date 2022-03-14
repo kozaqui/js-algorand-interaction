@@ -1,0 +1,15 @@
+{
+  "name": "js-sandbox-interaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launchpad.js",
+  "scripts": {
+    "set-up": "node create-account-with-identity-asset.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.13.1"
+  }
+}
