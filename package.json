@@ -4,12 +4,13 @@
   "description": "",
   "main": "launchpad.js",
   "scripts": {
+    "create-account": "node create-account.js",
     "set-up": "node create-account-with-identity-asset.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "algosdk": "^1.13.1"
+    "algosdk": "^2.3.0"
   }
 }
